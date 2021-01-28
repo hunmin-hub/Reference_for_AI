@@ -57,5 +57,13 @@ Gradient Descent (경사하강법)
  
 ***
 
+### 7. 역전파 (Backpropagation)
+[링크](https://bskyvision.com/718?category=635506)   
+~~~
+역전파를 통해 딥러닝 모델 학습 방법
+~~~
+ 
+***
+
 ---
 ---
