@@ -30,5 +30,13 @@
  
 ***
 
+### 4. Gradient Descent (경사하강법)
+[링크](https://angeloyeo.github.io/2020/08/16/gradient_descent.html)   
+~~~
+Gradient Descent (경사하강법)
+~~~
+ 
+***
+
 ---
 ---
