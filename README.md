@@ -20,5 +20,15 @@
  
 ***
 
+### 3. 모수, 큰 수의 법칙, 그리고 중심극한정리
+[링크](https://chukycheese.github.io/data%20science/parameter-clt/)   
+~~~
+모수 (Parameter)
+큰 수의 법칙 (Law of Large Numbers)
+중심극한정리 (Central Limit Theorem)
+~~~
+ 
+***
+
 ---
 ---
