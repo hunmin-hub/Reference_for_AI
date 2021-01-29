@@ -74,27 +74,17 @@ Gradient Descent (경사하강법)
 ***
 
 ### 9. 최대가능도 추정법
+   
+[1] 최대가능도 추정법과 예제
 [링크](https://datascienceschool.net/02%20mathematics/09.02%20%EC%B5%9C%EB%8C%80%EA%B0%80%EB%8A%A5%EB%8F%84%20%EC%B6%94%EC%A0%95%EB%B2%95.html)   
+[2] 최대가능도 함수(=우도 함수)란?
+[링크](https://m.blog.naver.com/mykepzzang/221568285099)  
+[3] 최대가능도 추정법(MLE)의 구현
+[링크](https://yamalab.tistory.com/94)  
+[4] 최대가능도 함수의 시각화
+[링크](https://jjangjjong.tistory.com/41) 
 ~~~
-최대가능도 추정법과 예제  
-~~~
- 
-***
-
-### 10. 가능도 함수(=우도 함수)란?
-[링크](https://m.blog.naver.com/mykepzzang/221568285099)   
-~~~
-가능도 함수와 확률 함수의 차이
-가능도란?
-~~~
- 
-***
-
-### 11. 최대가능도 추정법(MLE) 구현
-[링크](https://yamalab.tistory.com/94)   
-~~~
-최대가능도 함수
-MLE 구현
+최대가능도 추정법
 ~~~
  
 ***
