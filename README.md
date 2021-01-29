@@ -90,5 +90,14 @@ Gradient Descent (경사하강법)
  
 ***
 
+### 11. 최대가능도 추정법(MLE) 구현
+[링크](https://yamalab.tistory.com/94)   
+~~~
+최대가능도 함수
+MLE 구현
+~~~
+ 
+***
+
 ---
 ---
