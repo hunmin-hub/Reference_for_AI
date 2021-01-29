@@ -68,7 +68,7 @@ Gradient Descent (경사하강법)
 ### 8. 몬테카를로 시뮬레이션 (Monte carlo simulation)   
 [링크](https://losskatsu.github.io/statistics/mc-simulation/#%EB%AA%AC%ED%85%8C%EC%B9%B4%EB%A5%BC%EB%A1%9C-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98monte-carlo-simulation-%EA%B8%B0%EC%B4%88)   
 ~~~
-몬테카를로 
+몬테카를로 시뮬레이션   
 ~~~
  
 ***
