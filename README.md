@@ -73,5 +73,13 @@ Gradient Descent (경사하강법)
  
 ***
 
+### 9. 최대가능도 추정법
+[링크](https://datascienceschool.net/02%20mathematics/09.02%20%EC%B5%9C%EB%8C%80%EA%B0%80%EB%8A%A5%EB%8F%84%20%EC%B6%94%EC%A0%95%EB%B2%95.html)   
+~~~
+최대가능도 추정법과 예제  
+~~~
+ 
+***
+
 ---
 ---
