@@ -91,5 +91,13 @@ Gradient Descent (경사하강법)
  
 ***
 
+### 10. CNN
+[링크](https://www.youtube.com/watch?v=8rrHTtUzyZA&feature=youtu.be)   
+~~~
+CNN  
+~~~
+ 
+***
+
 ---
 ---
