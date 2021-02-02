@@ -1,4 +1,4 @@
-# AI 관련 학습 Reference 모음
+# Deep Learning 관련 학습 Reference 모음
 ---
 ---
 
