@@ -11,5 +11,14 @@ Test Data는 절대 건드리지 말아야 한다.
 
 ***
 
+### 2. Mnist 0~9 숫자 분류 문제
+[링크](https://skettee.github.io/post/neural_network_mnist/)   
+~~~
+Mnist 분류문제 흐름 파악해보기
+Model 설계부터 모든 과정
+~~~
+
+***
+
 ---
 ---
