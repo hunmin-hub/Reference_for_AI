@@ -30,5 +30,14 @@ No_grad(), detach()를 통한 메모리 절약
 
 ***
 
+### 4. Attention & Transformer Model
+[링크](https://wikidocs.net/22893)   
+[링크](https://wikidocs.net/31379)   
+~~~
+Attention과 Transformer 모델
+~~~
+
+***
+
 ---
 ---
