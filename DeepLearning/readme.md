@@ -39,5 +39,13 @@ Attention과 Transformer 모델
 
 ***
 
+### 5. Variational AutoEncoder
+[링크](https://ratsgo.github.io/generative%20model/2018/01/27/VAE/)   
+~~~
+Variational AutoEncoder(VAE)
+~~~
+
+***
+
 ---
 ---
