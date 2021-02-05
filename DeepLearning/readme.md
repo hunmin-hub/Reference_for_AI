@@ -47,5 +47,12 @@ Variational AutoEncoder(VAE)
 
 ***
 
+### 6. ResNet 구현
+[링크](https://wolfy.tistory.com/243)   
+~~~
+ResNet 구현
+~~~
+
+***
 ---
 ---
