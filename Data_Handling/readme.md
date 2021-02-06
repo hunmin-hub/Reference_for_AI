@@ -11,5 +11,13 @@
 
 ***
 
+### 2. Numpy   
+[링크](https://www.youtube.com/watch?v=GB9ByFAIAH4&ab_channel=KeithGalli)   
+~~~
+(Creating Arrays, Indexing, Math, Statistics, Reshaping)   
+~~~
+
+***
+
 ---
 ---
