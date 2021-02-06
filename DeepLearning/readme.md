@@ -54,5 +54,13 @@ ResNet 구현
 ~~~
 
 ***
+
+### 7. Ensemble 구현
+[링크](https://leechamin.tistory.com/55)   
+~~~
+Ensemble 구현
+~~~
+
+***
 ---
 ---
