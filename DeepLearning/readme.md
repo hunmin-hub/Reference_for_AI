@@ -62,5 +62,13 @@ Ensemble 구현
 ~~~
 
 ***
+
+### 8. Model 구현, Layer 배치
+[링크](https://gaussian37.github.io/dl-concept-order_of_regularization_term/)   
+~~~
+BatchNormalization, Dropout, Pooling 적용 순서   
+~~~
+
+***
 ---
 ---
