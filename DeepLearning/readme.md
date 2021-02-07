@@ -70,5 +70,14 @@ BatchNormalization, Dropout, Pooling 적용 순서
 ~~~
 
 ***
+
+### 9. How to Use PyTorch
+[링크](https://greeksharifa.github.io/pytorch/2018/11/10/pytorch-usage-03-How-to-Use-PyTorch/#cuda-use-gpu)   
+~~~
+Custom Dataset Class   
+PyTorch 구현   
+~~~
+
+***
 ---
 ---
