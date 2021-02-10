@@ -79,5 +79,13 @@ PyTorch 구현
 ~~~
 
 ***
+
+### 10. DenseNet
+[링크](https://wingnim.tistory.com/39)   
+~~~
+DenseNet, 
+~~~
+
+***
 ---
 ---
