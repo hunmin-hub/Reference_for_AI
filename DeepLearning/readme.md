@@ -80,10 +80,10 @@ PyTorch 구현
 
 ***
 
-### 10. DenseNet
+### 10. DenseNet 구현
 [링크](https://wingnim.tistory.com/39)   
 ~~~
-DenseNet, 
+DenseNet 구현
 ~~~
 
 ***
