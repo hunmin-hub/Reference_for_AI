@@ -87,5 +87,14 @@ DenseNet 구현
 ~~~
 
 ***
+
+### 11. GAN 구현
+[링크](http://www.gisdeveloper.co.kr/?p=8660)   
+~~~
+GAN 구현   
+적대적 생성 신경망   
+~~~
+
+***
 ---
 ---
