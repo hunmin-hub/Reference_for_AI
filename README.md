@@ -2,9 +2,9 @@
 ---
 ---
 
-### 1.
-### 2.
-### 3.
+### 1. AI Math
+### 2. Data Handling
+### 3. DeepLearning
 
 
 ---
