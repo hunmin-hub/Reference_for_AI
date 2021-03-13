@@ -112,5 +112,13 @@ Grad CAM
 ~~~
 
 ***
+
+### 14. Multi-Label Classification LOSS
+[링크](https://medium.com/platfarm/multi-label-classification-reduction-loss-f2cf27faa21b)   
+~~~
+Multi-Label Classification에서의 Loss 함수
+~~~
+
+***
 ---
 ---
