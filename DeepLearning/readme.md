@@ -128,5 +128,13 @@ Mask R-CNN
 ~~~
 
 ***
+
+### 16. Image Pre-processing
+[링크](https://towardsdatascience.com/image-pre-processing-c1aec0be3edf)   
+~~~
+Image Pre-processing
+~~~
+
+***
 ---
 ---
